@@ -1,0 +1,71 @@
+﻿1.Allstate Claim Prediction Challenge
+A key part of insurance is charging each customer the appropriate price for the risk they represent.
+Allstate索賠預測挑戰
+保險的一個關鍵部分是向每個客戶收取其所代表風險的適當價格。
+https://www.kaggle.com/c/ClaimPredictionChallenge
+風險因客戶而異，對不同風險因素的深入了解有助於預測保險理賠的可能性和成本。 本次比賽的目的是根據被保險客戶車輛的特徵更好地預測人身傷害責任保險索賠。
+許多因素導致車禍的頻率和嚴重程度，包括人們駕駛的方式，地點和條件，以及駕駛的內容。
+身體傷害責任保險涵蓋被保險人負責的其他人的身體傷害或死亡。 本次比賽的目的是根據被保險人車輛的特徵預測身體傷害責任保險索賠。
+可參考教學文章:
+https://blog.csdn.net/qq_34264472/article/details/53588773
+
+
+
+4.Prudential Life Insurance Assessment
+Can you make buying life insurance easier?
+保誠人壽保險評估
+你能更輕鬆地購買人壽保險嗎？
+https://www.kaggle.com/c/prudential-life-insurance-assessment/overview
+想像一下。您是初創企業文化中的數據科學家，有可能對業務產生巨大影響。哦，你有一家擁有140年商業經驗的公司支持。
+好奇？大！你是我們正在尋找的那種人。
+保誠集團是美國最大的人壽保險發行人之一，正在招聘熱情的數據科學家加入新成立的數據科學小組，解決複雜的挑戰並發現機遇。到目前為止結果令人印象深刻，但我們想要更多。
+挑戰
+在一鍵式購物世界中，隨需應變的一切，人壽保險申請流程已過時。客戶提供廣泛的信息來識別風險分類和資格，包括安排醫療檢查，這個過程平均需要30天。
+結果？人們被關閉了。這就是為什麼只有40％的美國家庭擁有個人人壽保險。 Prudential希望在保持隱私邊界的同時，讓新老客戶更快，更省力地獲得報價。
+通過開發一種使用更自動化的方法準確分類風險的預測模型，您可以極大地影響公眾對行業的看法。
+結果將有助於保誠更好地了解現有評估中數據點的預測能力，使我們能夠顯著簡化流程。
+可參考教學文章:
+(用R語言)
+https://zhuanlan.zhihu.com/p/25695531
+http://rstudio-pubs-static.s3.amazonaws.com/158725_5d2f977f4004490e9b095c0ef9357c6b.html
+
+
+
+2.Homesite Quote Conversion
+Which customers will purchase a quoted insurance plan?
+Homesite報價轉換
+哪些客戶會購買報價保險計劃？
+https://www.kaggle.com/c/homesite-quote-conversion/overview
+
+在詢問某人約會或跳傘之前，了解成功的可能性非常重要。 將房屋保險價格引用給潛在客戶也是如此。 Homesite是房主保險的領先提供商，目前沒有動態轉換率模型，可以讓他們相信報價會導致購買。
+使用匿名的客戶和銷售活動信息數據庫，包括財產和承保範圍信息，Homesite正在挑戰您預測哪些客戶將購買給定報價。 準確預測轉換將有助於Homesite更好地了解建議的定價變更的影響，並維護理想的客戶群組合。
+
+
+3.Allstate Claims Severity
+How severe is an insurance claim?
+Allstate聲明嚴重性
+保險索賠有多嚴重？
+https://www.kaggle.com/c/allstate-claims-severity/overview
+
+當你被嚴重的車禍摧毀時，你的注意力集中在最重要的事情上：家人，朋友和其他親人。與您的保險代理人一起推紙是您希望花費時間或精力的最後一個地方。這就是為什麼Allstate，一個美國的個人保險公司，不斷尋求新的想法，以改善他們保護的1600多萬戶家庭的理賠服務。
+Allstate目前正在開發預測索賠成本和嚴重程度的自動化方法。在這次招聘挑戰中，Kagglers受邀通過創建一種準確預測索賠嚴重程度的算法來展示他們的創造力並展示他們的技術創新。有抱負的競爭對手將展示洞察更好的預測索賠嚴重性的方法，以便有機會參與Allstate確保無憂客戶體驗的努力。
+Kaggle新手？這場比賽是一場招聘比賽，您有機會與Allstate的招聘團隊一起踏上門。
+
+
+人工智能社会保险反欺诈分析
+https://github.com/hetrone/kesai-anti-fraud
+https://www.kesci.com/home/project/5b5ea887a711e60010a0df25
+
+
+
+多個競賽平台介紹
+https://zhuanlan.zhihu.com/p/62268470
+
+房價預測教程
+https://www.kesci.com/home/project/5caeefe1e0ad99002cac0b7f
+
+
+
+
+
+

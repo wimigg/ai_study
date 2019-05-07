@@ -1,0 +1,17 @@
+多個競賽平台介紹
+https://zhuanlan.zhihu.com/p/62268470
+
+1. kaggle数据科学竞赛
+https://www.kaggle.com/competitions
+
+2 阿里云天池比赛
+https://tianchi.aliyun.com/competition/gameList/activeList
+
+3 AI Challenger
+https://challenger.ai/?lan=zh
+
+4 和鲸HeyWhale
+https://www.kesci.com/home/competition
+
+5 FlyAI竞赛平台
+https://www.flyai.com/
